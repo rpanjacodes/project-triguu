@@ -9,4 +9,5 @@
 ![Screenshot 2025-04-07 221929](https://github.com/user-attachments/assets/7c6fd077-0d8c-430f-919d-7d3a595816d4)
 
 
-
+# FULL README.MD SOON
+-> with step by step process and setup, thank you for your interest.
