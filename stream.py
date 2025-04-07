@@ -8,7 +8,7 @@ import asyncio
 
 # Configuration
 MUSIC_FOLDER = "music/"
-GIF_FILE = "haise.gif"
+GIF_FILE = "bg.gif"
 RTMP_URL = "rtmp://a.rtmp.youtube.com/live2/"  # Replace with your key
 BOT_TOKEN = ""  # Replace this
 FPS = 24
